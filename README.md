@@ -1,5 +1,5 @@
 
-# 🚛 Petrol Logistics Analysis
+#  Petrol Logistics Analysis
 
 ## 📌 Project Objective
 
@@ -36,7 +36,7 @@ The analysis is based on a dataset named `petrol_logistics`, containing key ship
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you'd like to collaborate, suggest improvements, or report issues, feel free to open a pull request or submit an issue.
 
