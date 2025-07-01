@@ -5,7 +5,7 @@
 
 This project focuses on analyzing logistics data to uncover **inefficiencies** in cargo transportation—particularly discrepancies in shipment weights and delivery timelines. By identifying patterns of **weight loss** and **delivery delays**, the analysis aims to improve **cargo planning** and **destination logistics** for petroleum shipments.
 
---
+---
 
 ## 🗃️ Dataset
 
@@ -44,5 +44,4 @@ Contributions are welcome! If you'd like to collaborate, suggest improvements, o
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute with attribution.
-
+This project is licensed under the [MIT License](LICENSE)
