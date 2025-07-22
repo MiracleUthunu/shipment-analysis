@@ -1,0 +1,266 @@
+Work shift,Type,Refinery,Origin Departure Date,Departure Month,Origin Net Weight,Destination Arrival Date,Destination Arrival Month,Destination Net Weight
+Day shift,VB,Tehran,2024/12/28,December,24040,2025/01/01,,24030
+Day shift,VB,Tehran,2024/12/28,December,23720,2025/01/01,,23700
+Day shift,VB,Tehran,2024/12/27,December,26080,2025/01/01,,25980
+Day shift,VB,Tehran,2024/12/28,December,23260,2025/01/01,,23700
+Day shift,VB,Tehran,2024/12/29,December,26380,2025/01/02,,26300
+Day shift,VB,Tehran,2024/12/28,December,25920,2025/01/02,,25900
+Day shift,VB,Tehran,2024/12/29,December,24200,2025/01/02,,24200
+Day shift,VB,Tehran,2025/01/01,January,26600,2025/01/03,,26680
+Day shift,VB,Tehran,2025/01/02,January,23880,2025/01/03,,23940
+Day shift,VB,Tehran,2025/01/01,January,25920,2025/01/03,,25880
+Day shift,VB,Tehran,2025/01/01,January,24540,2025/01/03,,24510
+Day shift,C5+,Pars Petrochemical,2024/12/27,December,26710,2025/01/03,,26670
+Day shift,VB,Tehran,2024/12/29,December,24940,2025/01/03,,24860
+Day shift,VB,Tehran,2025/01/02,January,24460,2025/01/03,,24460
+Day shift,VB,Tehran,2025/01/02,January,26960,2025/01/04,,26920
+Day shift,VB,Tehran,2025/01/02,January,23800,2025/01/03,,23830
+Day shift,VB,Tehran,2025/01/02,January,26720,2025/01/04,,26660
+Day shift,VB,Tehran,2025/01/03,January,25920,2025/01/05,,25930
+Day shift,VB,Tehran,2025/01/03,January,24500,2025/01/05,,24500
+Day shift,VB,Tehran,2025/01/04,January,25460,2025/01/05,,25490
+Day shift,VB,Tehran,2025/01/04,January,26660,2025/01/06,,26640
+Day shift,VB,Tehran,2025/01/03,January,23480,2025/01/05,,23470
+Day shift,VB,Tehran,2025/01/05,January,24360,2025/01/06,,24410
+Day shift,VB,Tehran,2025/01/04,January,23820,2025/01/06,,23830
+Day shift,VB,Tehran,2025/01/05,January,23660,2025/01/06,,23730
+Day shift,VB,Tehran,2025/01/05,January,25980,2025/01/06,,25990
+Day shift,VB,Tehran,2025/01/05,January,25100,2025/01/06,,25110
+Day shift,VB,Tehran,2025/01/05,January,23280,2025/01/06,,23240
+Day shift,VB,Tehran,2025/01/05,January,22880,2025/01/06,,22860
+Day shift,VB,Tehran,2025/01/04,January,25140,2025/01/06,,25140
+Day shift,VB,Tehran,2025/01/04,January,26180,2025/01/06,,26130
+Day shift,VB,Tehran,2025/01/05,January,26160,2025/01/07,,26360
+Day shift,VB,Tehran,2025/01/05,January,26360,2025/01/07,,26360
+Day shift,VB,Tehran,2025/01/05,January,25200,2025/01/07,,25220
+Day shift,VB,Tehran,2025/01/05,January,24440,2025/01/07,,24390
+Day shift,VB,Tehran,2025/01/05,January,23140,2025/01/07,,23210
+Day shift,C5+,Pars Petrochemical,2024/12/29,December,26360,2025/01/07,,26380
+Day shift,VB,Tehran,2025/01/06,January,25280,2025/01/07,,25250
+Day shift,VB,Tehran,2025/01/05,January,24220,2025/01/07,,24190
+Day shift,VB,Tehran,2025/01/05,January,24380,2025/01/07,,24340
+Day shift,VB,Tehran,2025/01/06,January,24200,2025/01/07,,24140
+Day shift,VB,Tehran,2025/01/05,January,23820,2025/01/07,,23820
+Day shift,VB,Tehran,2025/01/05,January,23420,2025/01/07,,23410
+Day shift,VB,Tehran,2025/01/06,January,23780,2025/01/08,,23790
+Day shift,VB,Tehran,2025/01/06,January,24400,2025/01/08,,24370
+Day shift,VB,Tehran,2025/01/06,January,24460,2025/01/08,,24430
+Day shift,VB,Tehran,2025/01/07,January,24600,2025/01/08,,24570
+Day shift,VB,Tehran,2025/01/07,January,23880,2025/01/08,,23840
+Day shift,VB,Tehran,2025/01/06,January,24680,2025/01/09,,24720
+Day shift,VB,Tehran,2025/01/06,January,24660,2025/01/09,,24620
+Day shift,VB,Tehran,2025/01/06,January,27080,2025/01/09,,27030
+Day shift,C5+,Pars Petrochemical,2025/01/18,January,24080,2025/01/20,,24060
+Day shift,C5+,Pars Petrochemical,2025/01/20,January,28340,2025/01/22,,28320
+Night shift,VB,Shiraz,2025/01/25,January,24660,2025/01/25,,24640
+Night shift,VB,Shiraz,2025/01/25,January,22090,2025/01/25,,22040
+Night shift,VB,Shiraz,2025/01/25,January,25000,2025/01/25,,25030
+Night shift,VB,Shiraz,2025/01/25,January,24530,2025/01/26,,24500
+Night shift,VB,Shiraz,2025/01/25,January,23300,2025/01/26,,23290
+Night shift,VB,Shiraz,2025/01/25,January,25460,2025/01/26,,25390
+Night shift,VB,Shiraz,2025/01/25,January,23920,2025/01/26,,24010
+Day shift,VB,Shiraz,2025/01/25,January,22480,2025/01/26,,22440
+Day shift,VB,Shiraz,2025/01/25,January,22770,2025/01/26,,22760
+Day shift,VB,Shiraz,2025/01/25,January,23750,2025/01/26,,23730
+Day shift,VB,Shiraz,2025/01/25,January,26620,2025/01/26,,26600
+Day shift,VB,Shiraz,2025/01/25,January,24930,2025/01/26,,24900
+Day shift,VB,Shiraz,2025/01/25,January,25220,2025/01/26,,25220
+Day shift,VB,Shiraz,2025/01/25,January,25830,2025/01/26,,25700
+Day shift,VB,Shiraz,2025/01/25,January,23800,2025/01/26,,23790
+Day shift,VB,Shiraz,2025/01/25,January,24250,2025/01/26,,24230
+Day shift,VB,Shiraz,2025/01/25,January,22650,2025/01/26,,22640
+Day shift,VB,Shiraz,2025/01/25,January,23470,2025/01/26,,23450
+Day shift,VB,Shiraz,2025/01/25,January,24380,2025/01/26,,24390
+Day shift,VB,Shiraz,2025/01/25,January,24850,2025/01/26,,24850
+Day shift,VB,Shiraz,2025/01/25,January,24480,2025/01/26,,24460
+Day shift,VB,Shiraz,2025/01/25,January,25340,2025/01/26,,25320
+Day shift,VB,Shiraz,2025/01/26,January,24240,2025/01/26,,24210
+Day shift,VB,Shiraz,2025/01/25,January,24720,2025/01/26,,24700
+Day shift,VB,Shiraz,2025/01/26,January,25840,2025/01/26,,25820
+Night shift,VB,Shiraz,2025/01/25,January,24520,2025/01/26,,24450
+Night shift,VB,Shiraz,2025/01/25,January,24410,2025/01/26,,24310
+Night shift,VB,Shiraz,2025/01/25,January,24520,2025/01/26,,24450
+Night shift,VB,Shiraz,2025/01/25,January,25150,2025/01/26,,25200
+Night shift,VB,Shiraz,2025/01/25,January,25270,2025/01/26,,25290
+Night shift,VB,Shiraz,2025/01/26,January,23140,2025/01/26,,23170
+Night shift,VB,Shiraz,2025/01/26,January,24250,2025/01/26,,24220
+Night shift,VB,Shiraz,2025/01/26,January,24550,2025/01/26,,24530
+Night shift,VB,Shiraz,2025/01/26,January,24720,2025/01/27,,24700
+Day shift,VB,Shiraz,2025/01/26,January,22470,2025/01/27,,22470
+Day shift,VB,Shiraz,2025/01/26,January,24800,2025/01/27,,24870
+Day shift,VB,Shiraz,2025/01/26,January,24350,2025/01/27,,24210
+Day shift,VB,Shiraz,2025/01/26,January,24250,2025/01/27,,24300
+Night shift,VB,Shiraz,2025/01/26,January,24350,2025/01/27,,23840
+Night shift,VB,Shiraz,2025/01/26,January,24640,2025/01/27,,24590
+Night shift,VB,Shiraz,2025/01/27,January,25260,2025/01/27,,25280
+Night shift,VB,Shiraz,2025/01/26,January,24840,2025/01/27,,24940
+Night shift,VB,Shiraz,2025/01/26,January,25320,2025/01/27,,25230
+Night shift,VB,Shiraz,2025/01/26,January,24550,2025/01/27,,24330
+Night shift,VB,Shiraz,2025/01/26,January,23210,2025/01/28,,23200
+Night shift,VB,Shiraz,2025/01/26,January,25060,2025/01/28,,25020
+Night shift,VB,Shiraz,2025/01/27,January,23790,2025/01/28,,23760
+Night shift,C5+,Pars Petrochemical,2025/01/26,January,26980,2025/01/27,,26940
+Day shift,VB,Shiraz,2025/01/27,January,25680,2025/01/28,,25710
+Night shift,VB,Shiraz,2025/01/26,January,23460,2025/01/28,,23570
+Day shift,VB,Shiraz,2025/01/26,January,23030,2025/01/29,,23030
+Day shift,VB,Shiraz,2025/02/03,February,25710,2025/02/04,,25640
+Day shift,VB,Shiraz,2025/02/03,February,25440,2025/02/04,,25400
+Day shift,VB,Shiraz,2025/02/03,February,24320,2025/02/04,,24310
+Day shift,VB,Shiraz,2025/02/03,February,22500,2025/02/04,,22480
+Day shift,VB,Shiraz,2025/02/03,February,24400,2025/02/04,,24370
+Day shift,VB,Shiraz,2025/02/03,February,25240,2025/02/04,,25220
+Day shift,VB,Shiraz,2025/02/03,February,22950,2025/02/04,,22920
+Day shift,VB,Shiraz,2025/02/03,February,25770,2025/02/04,,25740
+Day shift,VB,Shiraz,2025/02/03,February,24890,2025/02/04,,24820
+Day shift,VB,Shiraz,2025/02/03,February,25230,2025/02/04,,25210
+Day shift,VB,Shiraz,2025/02/03,February,25470,2025/02/04,,25430
+Night shift,VB,Shiraz,2025/02/04,February,24200,2025/02/04,,24280
+Night shift,VB,Shiraz,2025/02/03,February,24850,2025/02/04,,24820
+Night shift,VB,Shiraz,2025/02/04,February,24170,2025/02/04,,24120
+Day shift,VB,Shiraz,2025/02/04,February,25140,2025/02/05,,25240
+Day shift,VB,Shiraz,2025/02/04,February,24780,2025/02/05,,24900
+Night shift,VB,Shiraz,2025/02/05,February,23630,2025/02/05,,23940
+Night shift,VB,Shiraz,2025/02/05,February,25420,2025/02/05,,25480
+Night shift,VB,Shiraz,2025/02/05,February,24560,2025/02/05,,24730
+Night shift,VB,Shiraz,2025/02/05,February,24040,2025/02/05,,24130
+Night shift,VB,Shiraz,2025/02/04,February,24470,2025/02/05,,24730
+Day shift,VB,Shiraz,2025/02/04,February,24290,2025/02/06,,24270
+Night shift,VB,Shiraz,2025/02/05,February,23970,2025/02/06,,24040
+Day shift,VB,Shiraz,2025/02/06,February,25290,2025/02/07,,25280
+Day shift,VB,Shiraz,2025/02/06,February,23990,2025/02/07,,24130
+Day shift,VB,Shiraz,2025/02/06,February,23770,2025/02/07,,24000
+Day shift,VB,Shiraz,2025/02/06,February,25250,2025/02/07,,25420
+Day shift,VB,Shiraz,2025/02/06,February,24310,2025/02/07,,24440
+Day shift,VB,Shiraz,2025/02/06,February,26230,2025/02/07,,26320
+Day shift,VB,Shiraz,2025/02/06,February,24300,2025/02/07,,24280
+Night shift,VB,Shiraz,2025/02/06,February,22920,2025/02/07,,22930
+Day shift,VB,Shiraz,2025/02/09,February,24650,2025/02/10,,24590
+Night shift,C5+,Pars Petrochemical,2025/02/12,February,26560,2025/02/14,,26560
+Night shift,C5+,Pars Petrochemical,2025/02/20,February,26940,2025/02/22,,26920
+Night shift,VB,Shiraz,2025/02/27,February,24230,2025/02/21,,24440
+Night shift,VB,Shiraz,2025/02/27,February,25600,2025/02/21,,25570
+Night shift,VB,Shiraz,2025/02/27,February,24180,2025/02/21,,24150
+Day shift,VB,Shiraz,2025/02/27,February,24230,2025/02/21,,24270
+Day shift,VB,Shiraz,2025/02/27,February,24990,2025/02/21,,24970
+Day shift,VB,Shiraz,2025/02/27,February,22160,2025/02/21,,22120
+Day shift,VB,Shiraz,2025/02/27,February,25870,2025/02/21,,25860
+Day shift,VB,Shiraz,2025/02/27,February,24530,2025/02/21,,24640
+Day shift,VB,Shiraz,2025/02/27,February,24850,2025/02/21,,24930
+Day shift,VB,Shiraz,2025/02/27,February,25160,2025/02/21,,25120
+Day shift,VB,Shiraz,2025/02/27,February,22640,2025/02/21,,22700
+Day shift,VB,Shiraz,2025/02/27,February,25810,2025/02/21,,25760
+Day shift,VB,Shiraz,2025/02/27,February,24450,2025/02/21,,24680
+Day shift,VB,Shiraz,2025/02/21,February,24280,2025/02/21,,24280
+Night shift,VB,Shiraz,2025/02/27,February,23750,2025/02/21,,23860
+Night shift,VB,Shiraz,2025/02/21,February,25250,2025/02/21,,25220
+Night shift,VB,Shiraz,2025/02/27,February,26090,2025/02/21,,26220
+Night shift,VB,Shiraz,2025/02/21,February,22560,2025/02/21,,22570
+Night shift,VB,Shiraz,2025/02/21,February,26190,2025/02/21,,26230
+Night shift,VB,Shiraz,2025/02/21,February,24990,2025/02/21,,25110
+Night shift,VB,Shiraz,2025/02/21,February,25550,2025/02/21,,25530
+Night shift,VB,Shiraz,2025/02/21,February,24630,2025/02/21,,24620
+Night shift,VB,Shiraz,2025/02/21,February,24930,2025/02/21,,25060
+Night shift,VB,Shiraz,2025/02/21,February,21740,2025/02/21,,21760
+Night shift,VB,Shiraz,2025/02/21,February,23610,2025/02/21,,23660
+Day shift,VB,Shiraz,2025/02/21,February,24530,2025/03/01,,24570
+Day shift,VB,Shiraz,2025/02/21,February,15050,2025/03/01,,15110
+Evening shift,VB,Shiraz,2025/02/21,February,24240,2025/03/01,,24230
+Evening shift,VB,Shiraz,2025/02/21,February,24070,2025/03/01,,24060
+Evening shift,VB,Shiraz,2025/02/21,February,26880,2025/03/01,,26860
+Evening shift,VB,Shiraz,2025/02/21,February,25010,2025/03/01,,25090
+Night shift,VB,Shiraz,2025/02/21,February,23170,2025/03/01,,23170
+Night shift,VB,Shiraz,2025/03/01,March,24470,2025/03/01,,24440
+Night shift,VB,Shiraz,2025/03/01,March,25100,2025/03/01,,25080
+Night shift,VB,Shiraz,2025/02/21,February,23880,2025/03/02,,23840
+Night shift,VB,Shiraz,2025/02/21,February,26310,2025/03/02,,26300
+Night shift,VB,Shiraz,2025/03/01,March,25790,2025/03/02,,25760
+Night shift,VB,Shiraz,2025/03/01,March,23970,2025/03/02,,23940
+Night shift,VB,Shiraz,2025/03/01,March,25310,2025/03/02,,25260
+Night shift,VB,Shiraz,2025/03/01,March,24310,2025/03/02,,24290
+Night shift,VB,Shiraz,2025/02/21,February,24150,2025/03/02,,24070
+Day shift,C5+,Pars Petrochemical,2025/02/21,February,28200,2025/03/02,,28240
+Evening shift,Condensate,South Pars,2025/03/04,March,23767,2025/03/05,,23790
+Evening shift,Condensate,South Pars,2025/03/04,March,24430,2025/03/05,,24300
+Night shift,Condensate,South Pars,2025/03/04,March,22381,2025/03/06,,22320
+Night shift,Condensate,South Pars,2025/03/06,March,23481,2025/03/07,,23450
+Night shift,Condensate,South Pars,2025/03/07,March,22330,2025/03/07,,22320
+Evening shift,VB,Tehran,2025/03/09,March,25080,2025/03/10,,25040
+Evening shift,VB,Tehran,2025/03/09,March,25570,2025/03/10,,25550
+Evening shift,VB,Tehran,2025/03/08,March,23230,2025/03/10,,23190
+Night shift,VB,Tehran,2025/03/09,March,25920,2025/03/10,,25900
+Night shift,VB,Tehran,2025/03/09,March,28770,2025/03/10,,28720
+Night shift,VB,Tehran,2025/03/09,March,26140,2025/03/10,,26070
+Night shift,VB,Tehran,2025/03/08,March,24250,2025/03/11,,24160
+Night shift,VB,Tehran,2025/03/09,March,23730,2025/03/11,,23690
+Night shift,VB,Tehran,2025/03/09,March,24300,2025/03/10,,24300
+Night shift,VB,Tehran,2025/03/08,March,26040,2025/03/11,,26000
+Evening shift,Iso-Recycle,Tehran,2025/03/10,March,25730,2025/03/11,,25730
+Evening shift,VB,Tehran,2025/03/10,March,23900,2025/03/11,,23840
+Evening shift,VB,Tehran,2025/03/09,March,24410,2025/03/11,,24340
+Evening shift,VB,Tehran,2025/03/09,March,24150,2025/03/11,,24090
+Evening shift,Iso-Recycle,Tehran,2025/03/10,March,26510,2025/03/11,,26480
+Day shift,VB,Tehran,2025/03/10,March,24600,2025/03/12,,24610
+Day shift,VB,Tehran,2025/03/10,March,24680,2025/03/12,,24670
+Evening shift,Iso-Recycle,Tehran,2025/03/10,March,25550,2025/03/12,,25480
+Evening shift,VB,Tehran,2025/03/10,March,23710,2025/03/12,,23640
+Night shift,C5+,Pars Petrochemical,2025/03/12,March,22570,2025/03/12,,22610
+Night shift,VB,Tehran,2025/03/09,March,22580,2025/03/12,,22520
+Night shift,VB,Tehran,2025/03/11,March,25030,2025/03/13,,25030
+Night shift,Iso-Recycle,Tehran,2025/03/11,March,26640,2025/03/13,,26620
+Evening shift,VB,Tehran,2025/03/11,March,25120,2025/03/13,,25020
+Night shift,C5+,Pars Petrochemical,2025/03/13,March,22460,2025/03/13,,22420
+Night shift,Condensate,South Pars,2025/03/13,March,22734,2025/03/14,,22980
+Night shift,Condensate,South Pars,2025/03/13,March,23010,2025/03/14,,22620
+Night shift,C5+,Pars Petrochemical,2025/03/13,March,21620,2025/03/13,,21660
+Day shift,C5+,Pars Petrochemical,2025/03/13,March,22560,2025/03/14,,22430
+Day shift,Condensate,South Pars,2025/03/13,March,22788,2025/03/14,,22560
+Day shift,VB,Tehran,2025/03/12,March,23920,2025/03/14,,23890
+Day shift,VB,Tehran,2025/03/12,March,24210,2025/03/14,,24200
+Evening shift,VB,Tehran,2025/03/13,March,22840,2025/03/14,,22780
+Evening shift,C5+,Pars Petrochemical,2025/03/13,March,22720,2025/03/14,,22640
+Night shift,VB,Tehran,2025/03/13,March,25880,2025/03/14,,25870
+Night shift,C5+,Pars Petrochemical,2025/03/14,March,22260,2025/03/14,,22300
+Night shift,Condensate,South Pars,2025/03/14,March,22738,2025/03/15,,22840
+Day shift,C5+,Pars Petrochemical,2025/03/14,March,24110,2025/03/15,,24000
+Evening shift,C5+,Pars Petrochemical,2025/03/14,March,21460,2025/03/15,,21390
+Evening shift,Condensate,South Pars,2025/03/14,March,25245,2025/03/15,,25160
+Evening shift,VB,Tehran,2025/03/14,March,24940,2025/03/15,,24910
+Night shift,C5+,Pars Petrochemical,2025/03/14,March,21460,2025/03/15,,21500
+Night shift,VB,Tehran,2025/03/13,March,26840,2025/03/15,,26760
+Night shift,VB,Tehran,2025/03/13,March,26120,2025/03/16,,26050
+Night shift,C5+,Pars Petrochemical,2025/03/14,March,22260,2025/03/16,,22200
+Night shift,VB,Tehran,2025/03/14,March,25515,2025/03/16,,25500
+Night shift,VB,Tehran,2025/03/14,March,26525,2025/03/16,,26510
+Day shift,C5+,Pars Petrochemical,2025/03/15,March,22720,2025/03/16,,22680
+Day shift,VB,Tehran,2025/03/14,March,24140,2025/03/16,,24110
+Day shift,VB,Tehran,2025/03/14,March,26455,2025/03/16,,26420
+Evening shift,C5+,Pars Petrochemical,2025/03/15,March,21440,2025/03/16,,21380
+Night shift,VB,Tehran,2025/03/15,March,25080,2025/03/17,,25030
+Night shift,VB,Tehran,2025/03/15,March,23635,2025/03/17,,23600
+Day shift,C5+,Pars Petrochemical,2025/03/15,March,22100,2025/03/15,,22020
+Evening shift,C5+,Pars Petrochemical,2025/03/15,March,22310,2025/03/15,,22240
+Evening shift,C5+,Pars Petrochemical,2025/03/15,March,22360,2025/03/16,,22400
+Evening shift,C5+,Pars Petrochemical,2025/03/15,March,22240,2025/03/16,,22420
+Night shift,C5+,Pars Petrochemical,2025/03/16,March,22450,2025/03/16,,22470
+Night shift,C5+,Pars Petrochemical,2025/03/16,March,21990,2025/03/16,,21950
+Night shift,C5+,Pars Petrochemical,2025/03/16,March,21420,2025/03/17,,21310
+Day shift,C5+,Pars Petrochemical,2025/03/16,March,22180,2025/03/17,,22210
+Day shift,C5+,Pars Petrochemical,2025/03/16,March,22620,2025/03/17,,22570
+Day shift,C5+,Pars Petrochemical,2025/03/17,March,21980,2025/03/17,,22010
+Day shift,VB,Tehran,2025/03/15,March,24340,2025/03/18,,24290
+Day shift,VB,Tehran,2025/03/15,March,23175,2025/03/18,,23090
+Evening shift,C5+,Pars Petrochemical,2025/03/17,March,22300,2025/03/17,,22360
+Evening shift,C5+,Pars Petrochemical,2025/03/17,March,22700,2025/03/18,,22650
+Evening shift,Condensate,South Pars,2025/03/17,March,23085,2025/03/18,,22880
+Evening shift,C5+,Pars Petrochemical,2025/03/17,March,21870,2025/03/18,,21870
+Evening shift,Iso-Recycle,Tehran,2025/03/12,March,26200,2025/03/18,,26170
+Evening shift,C5+,Pars Petrochemical,2025/03/18,March,22120,2025/03/19,,22010
+Evening shift,C5+,Pars Petrochemical,2025/03/19,March,22110,2025/03/19,,22070
+Evening shift,C5+,Pars Petrochemical,2025/03/19,March,21450,2025/03/19,,21420
+Night shift,Condensate,South Pars,2025/03/19,March,20675,2025/03/19,,20790
+Day shift,Condensate,South Pars,2025/03/19,March,22717,2025/03/20,,22660
+Evening shift,Condensate,South Pars,2025/03/19,March,22696,2025/03/20,,22670
+Evening shift,Condensate,South Pars,2025/03/19,March,22692,2025/03/20,,22690
+Evening shift,Condensate,South Pars,2025/03/19,March,22748,2025/03/20,,22670
+Evening shift,Condensate,South Pars,2025/03/19,March,20574,2025/03/20,,20430
+Evening shift,Condensate,South Pars,2025/03/20,March,22665,2025/03/20,,22550
